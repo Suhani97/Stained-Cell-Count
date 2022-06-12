@@ -1,4 +1,4 @@
-# stained-cell-count
+# Stained-Cell-Count
 1. This repository contains the project file used for evaluating the regression with use of Convolutional Neural Networks for counting the stained cells with blue nucleus and a brown membrane.
 
 ![image](https://user-images.githubusercontent.com/78314796/173220725-0ac7a180-262e-4375-9b2e-280d655ebe29.png)
